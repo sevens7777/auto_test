@@ -1,0 +1,8 @@
+python==3.10.14
+mitmproxy==9.0.1
+pyOpenSSL==22.1.0
+jinja2==3.1.4
+pytest==8.2.2
+allure-pytest==2.13.5
+requests==2.32.3
+xToolkit==0.0.89
